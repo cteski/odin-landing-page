@@ -46,6 +46,13 @@ button, .call-to-action {
     padding: 11px;
 }
 
+.hero {
+    align-items: center;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
 .hero h2 {
     color: #f9faf8;
     font-size: 48px;
