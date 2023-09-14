@@ -9,6 +9,11 @@
     justify-content: space-between;
 }
 
+.top ul {
+    display: flex;
+    gap: 20px;
+}
+
 .header, .footer {
     background-color: #1f2937;
 }
