@@ -18,6 +18,16 @@ body {
     gap: 20px;
 }
 
+.right-hero {
+    align-items: center;
+    background-color: #656b73;
+    color: #ffffff;
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    width: 450px;
+}
+
 .header, .footer {
     background-color: #1f2937;
 }
