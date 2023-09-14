@@ -78,7 +78,16 @@ button, .call-to-action {
 }
 
 button {
+    border-radius: 10px;
+    border-width: 0;
     color: #ffffff;
+    font-size: 18px;
+    font-weight: 900;
+    padding: 10px 40px;
+}
+
+.call-to-action button {
+    border: 2px solid #ffffff;
 }
 
 .information h3 {
