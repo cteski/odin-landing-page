@@ -112,6 +112,10 @@ button {
     width: 158px;
 }
 
+.info-box p {
+    margin: 10px 0 0 0;
+}
+
 .information h3 {
     color: #1f2937;
     font-size: 36px;
