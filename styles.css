@@ -107,6 +107,10 @@ button {
     gap: 50px;
 }
 
+.info-box {
+    width: 158px;
+}
+
 .information h3 {
     color: #1f2937;
     font-size: 36px;
