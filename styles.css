@@ -28,6 +28,10 @@ body {
     width: 450px;
 }
 
+.header {
+    padding: 0 0 100px 0;
+}
+
 .header, .footer {
     background-color: #1f2937;
 }
