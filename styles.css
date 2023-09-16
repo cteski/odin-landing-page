@@ -50,6 +50,7 @@ body {
 }
 
 .call-to-action {
+    border-radius: 10px;
     margin: 100px 200px
 }
 
