@@ -60,11 +60,13 @@ body {
 .call-to-action h4 {
     color: #ffffff;
     font-size: 24px;
+    margin: 0px;
 }
 
 .call-to-action p {
     color: #e2e4e8;
     font-size: 18px;
+    margin: 0px;
 }
 
 button, .call-to-action {
