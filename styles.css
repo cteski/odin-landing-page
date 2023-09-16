@@ -50,7 +50,10 @@ body {
 }
 
 .call-to-action {
+    align-items: center;
     border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
     margin: 100px 200px
 }
 
