@@ -54,7 +54,8 @@ body {
     border-radius: 10px;
     display: flex;
     justify-content: space-evenly;
-    margin: 100px 200px
+    margin: 100px 200px;
+    padding: 60px 0 60px 0;
 }
 
 .call-to-action h4 {
