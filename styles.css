@@ -59,6 +59,11 @@ body {
     font-size: 24px;
 }
 
+.call-to-action p {
+    color: #e2e4e8;
+    font-size: 18px;
+}
+
 button, .call-to-action {
     background-color: #3882f6;
 }
