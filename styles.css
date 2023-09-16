@@ -165,3 +165,7 @@ blockquote {
     font-style: italic;
     font-size: 36px;
 }
+
+.footer {
+    text-align: center;
+}
