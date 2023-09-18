@@ -48,13 +48,16 @@ body {
 
 .quote {
     background-color: #e5e7eb;
-    padding: 50px 400px;
+    margin: auto;
+    width: 100%;
 }
 
 .quote p {
     font-size: 24px;
     font-weight: 900;
+    margin: auto;
     text-align: right;
+    width: 900px;
 }
 
 .call-to-action {
@@ -177,6 +180,8 @@ blockquote {
     font-style: italic;
     font-size: 36px;
     font-weight: 300;
+    margin: auto;
+    width: 900px;
 }
 
 
