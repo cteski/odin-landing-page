@@ -111,6 +111,10 @@ button, .call-to-action {
     font-size: 18px;
 }
 
+.hero button {
+    margin-top: 10px;
+}
+
 .header ul {
     list-style-type: none;
 }
