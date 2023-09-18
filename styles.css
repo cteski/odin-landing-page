@@ -20,6 +20,10 @@ body {
     gap: 20px;
 }
 
+.left-hero {
+    width: 450px;
+}
+
 .right-hero {
     align-items: center;
     background-color: #656b73;
